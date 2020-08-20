@@ -31,7 +31,7 @@ These steps should be useful for debugging broken builds directly on the build w
 
 ## Future
 
-Maybe as a GitHub Action? Oh well, this is fairly simple anyway.
+Maybe as a GitHub Action? Oh well, this is fairly simple anyway. Or using something more FOSS than ngrok like https://github.com/TimeToogo/tunshell ?
 
 ## License
 
