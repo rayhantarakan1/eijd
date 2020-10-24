@@ -33,6 +33,15 @@ These steps should be useful for debugging broken builds directly on the build w
 
 Maybe as a GitHub Action? Oh well, this is fairly simple anyway. Or using something more FOSS than ngrok like https://github.com/TimeToogo/tunshell ?
 
+## Similar Projects
+
+These projects also allow remote introspection of very temporary environments like in GitHub Actions or other environments. 
+
+* Shell-Only (macOS, Linux, and also Windows)
+  * https://tunshell.com
+* macOS VNC
+  * https://github.com/dakotaKat/fastmac-VNCgui
+
 ## License
 
 MIT
