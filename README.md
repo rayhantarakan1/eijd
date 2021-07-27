@@ -45,5 +45,3 @@ These projects also allow remote introspection of very temporary environments li
 ## License
 
 MIT
-
-[ngrok]: https://ngrok.com/
